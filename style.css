@@ -1,0 +1,102 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2867
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;\red153\green139\blue116;\red86\green153\blue237;\red246\green241\blue239;
+\red245\green85\blue7;\red22\green168\blue78;}
+{\*\expandedcolortbl;;\cssrgb\c66667\c61176\c52941;\cssrgb\c40392\c67059\c94510;\cssrgb\c97255\c95686\c94902;
+\cssrgb\c97647\c42353\c0;\cssrgb\c0\c70196\c37647;}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 <!DOCTYPE \cf3 html\cf2 >\cf4 \
+<html \cf5 lang\cf4 =\cf6 "en"\cf4 >\
+<head>\
+  <meta \cf5 charset\cf4 =\cf6 "UTF-8"\cf4  />\
+  <title>Your Name</title>\
+  <meta \cf5 name\cf4 =\cf6 "viewport"\cf4  \cf5 content\cf4 =\cf6 "width=device-width, initial-scale=1"\cf4  />\
+  <link \cf5 rel\cf4 =\cf6 "stylesheet"\cf4  \cf5 href\cf4 =\cf6 "style.css"\cf4  />\
+</head>\
+<body>\
+  <header \cf5 class\cf4 =\cf6 "top-nav"\cf4 >\
+    <div \cf5 class\cf4 =\cf6 "logo"\cf4 >Your Name</div>\
+    <nav>\
+      <a \cf5 href\cf4 =\cf6 "#home"\cf4 >Home</a>\
+      <a \cf5 href\cf4 =\cf6 "#research"\cf4 >Research</a>\
+      <a \cf5 href\cf4 =\cf6 "#apps"\cf4 >Apps</a>\
+      <a \cf5 href\cf4 =\cf6 "#projects"\cf4 >Projects</a>\
+      <a \cf5 href\cf4 =\cf6 "#about"\cf4 >About Me</a>\
+      <a \cf5 href\cf4 =\cf6 "#thoughts"\cf4 >Thoughts</a>\
+    </nav>\
+  </header>\
+\
+  <main>\
+    <section \cf5 id\cf4 =\cf6 "home"\cf4  \cf5 class\cf4 =\cf6 "hero"\cf4 >\
+      <h1>Your Name</h1>\
+      <p \cf5 class\cf4 =\cf6 "subtitle"\cf4 >Your role \'96 e.g., 12th Grade</p>\
+      <p \cf5 class\cf4 =\cf6 "tagline"\cf4 >Conviction</p>\
+      <div \cf5 class\cf4 =\cf6 "links-row"\cf4 >\
+        <a \cf5 href\cf4 =\cf6 "mailto:youremail@example.com"\cf4 >email</a>\
+        <a \cf5 href\cf4 =\cf6 "#"\cf4  \cf5 target\cf4 =\cf6 "_blank"\cf4 >scholar</a>\
+        <a \cf5 href\cf4 =\cf6 "#"\cf4  \cf5 target\cf4 =\cf6 "_blank"\cf4 >linkedin</a>\
+      </div>\
+    </section>\
+\
+    <section \cf5 id\cf4 =\cf6 "research"\cf4  \cf5 class\cf4 =\cf6 "block"\cf4 >\
+      <h2>Research</h2>\
+      <ul>\
+        <li>\
+          <a \cf5 href\cf4 =\cf6 "#"\cf4  \cf5 target\cf4 =\cf6 "_blank"\cf4 >Your Paper Title</a> Conference/Journal \'95 Role\
+        </li>\
+        <li>\
+          <a \cf5 href\cf4 =\cf6 "#"\cf4  \cf5 target\cf4 =\cf6 "_blank"\cf4 >Another Paper</a> Conference/Journal \'95 Role\
+        </li>\
+      </ul>\
+    </section>\
+\
+    <section \cf5 id\cf4 =\cf6 "apps"\cf4  \cf5 class\cf4 =\cf6 "block"\cf4 >\
+      <h2>iOS Apps</h2>\
+      <ul>\
+        <li>\
+          <a \cf5 href\cf4 =\cf6 "#"\cf4  \cf5 target\cf4 =\cf6 "_blank"\cf4 >App Name</a> Short description of what it does\
+        </li>\
+        <li>\
+          <a \cf5 href\cf4 =\cf6 "#"\cf4  \cf5 target\cf4 =\cf6 "_blank"\cf4 >Another App</a> Short description\
+        </li>\
+      </ul>\
+    </section>\
+\
+    <section \cf5 id\cf4 =\cf6 "projects"\cf4  \cf5 class\cf4 =\cf6 "block"\cf4 >\
+      <h2>Projects</h2>\
+      <ul \cf5 class\cf4 =\cf6 "projects-list"\cf4 >\
+        <li>\
+          <span>Project Name</span>\
+          <span \cf5 class\cf4 =\cf6 "inline-links"\cf4 >\
+            <a \cf5 href\cf4 =\cf6 "#"\cf4  \cf5 target\cf4 =\cf6 "_blank"\cf4 >code</a>\
+            <a \cf5 href\cf4 =\cf6 "#"\cf4  \cf5 target\cf4 =\cf6 "_blank"\cf4 >demo</a>\
+          </span>\
+        </li>\
+        <li>\
+          <span>Another Project</span>\
+          <span \cf5 class\cf4 =\cf6 "inline-links"\cf4 >\
+            <a \cf5 href\cf4 =\cf6 "#"\cf4  \cf5 target\cf4 =\cf6 "_blank"\cf4 >code</a>\
+            <a \cf5 href\cf4 =\cf6 "#"\cf4  \cf5 target\cf4 =\cf6 "_blank"\cf4 >demo</a>\
+          </span>\
+        </li>\
+      </ul>\
+    </section>\
+\
+    <section \cf5 id\cf4 =\cf6 "about"\cf4  \cf5 class\cf4 =\cf6 "block"\cf4 >\
+      <h2>About Me</h2>\
+      <p>\
+        Write a short paragraph about who you are, what you care about, and what you work on.\
+      </p>\
+    </section>\
+\
+    <section \cf5 id\cf4 =\cf6 "thoughts"\cf4  \cf5 class\cf4 =\cf6 "block"\cf4 >\
+      <h2>Thoughts</h2>\
+      <p>\
+        You can list blog posts or just keep this as a placeholder for now.\
+      </p>\
+    </section>\
+  </main>\
+</body>\
+</html>}
